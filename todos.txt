@@ -1,0 +1,9 @@
+clean
+laundry
+read
+play
+mow lawn
+jog
+drive
+interview prep
+buy milk
